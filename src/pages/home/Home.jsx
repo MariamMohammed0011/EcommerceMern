@@ -1,7 +1,14 @@
-import React from 'react'
+import React from "react";
+import HomeBanner from "../../componenets/homeBanner/HomeBanner";
+
+
 
 export default function Home() {
+  
   return (
-    <div>Home</div>
-  )
-}
+   <>
+  <HomeBanner/>
+    
+     
+     </>
+  )};
